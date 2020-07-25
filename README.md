@@ -10,7 +10,9 @@ sympy
 
 FireFox
 
-for running FireFox with selenium, use the geckodriver package. Installation instructions for geckodriver on Ubuntu can be found here: https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
+
+
+For running FireFox with selenium, use the geckodriver package. Installation instructions for geckodriver on Ubuntu can be found here: https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
 
 # To Run
 `python bot.py`
