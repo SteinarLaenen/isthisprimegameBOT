@@ -1,5 +1,5 @@
 # isthisprimegameBOT
-Simple Python bot to play the "is this prime" game: https://isthisprime.com/game/ in an open webbrowser
+Simple Python bot to play the "is this prime" game: https://isthisprime.com/game/ in an open webbrowser.
 
 # Requirements
 python 3.x
